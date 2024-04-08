@@ -1,0 +1,28 @@
+.sec1f {
+  border-radius: 5px;
+  background-color: white;
+  height: 500px;
+  border: 1px solid #7c0b0b;
+  padding: 30px;
+  width: 500px;
+}
+.imgg {
+  height: 500px;
+}
+small {
+  align-items: right !important;
+}
+button {
+  background-color: #7c0b0b;
+  width: 103px;
+  text-align: center;
+  margin: 20px 150px;
+}
+.tet {
+  text-align: start !important;
+  line-height: 5px;
+  color: #7c0b0b;
+}
+input {
+  border: 1px solid #7c0b0b66;
+}
