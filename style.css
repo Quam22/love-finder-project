@@ -9,6 +9,13 @@
 .imgg {
   height: 500px;
 }
+.hero{
+    background-image: url('./imagess/hero.png');
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+}
 small {
   align-items: right !important;
 }
